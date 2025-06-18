@@ -85,7 +85,9 @@ function QuestionPage() {
         <>
           <img src="/imposter.jpg" alt="Imposter" className="w-64 h-64 mb-4 rounded-full shadow-lg" />
           <h1 className="text-xl font-semibold text-white max-w-md">
-            You are the IMPOSTER. Blend in by raising any number of fingers from 0 to 10. Be prepared to defend your number whatever happens.
+            Shh… You’re the IMPOSTER. They know the signal. You don’t. Fake it. Time it. Don’t blow your cover. Raise your hand when the countdown ends. Or dont.
+
+
           </h1>
         </>
       ) : (
